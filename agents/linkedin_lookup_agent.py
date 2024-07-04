@@ -1,16 +1,25 @@
 import os
 
-from dotenv import load_dotenv
-from langchain_core.tools import Tool
-from langchain_openai import ChatOpenAI
-from langchain.prompts.prompt import PromptTemplate
-from tools.tools import get_profile_url_tavily
-
 from langchain import hub
 from langchain.agents import (
     create_react_agent,
     AgentExecutor,
 )
+from langchain_core.tools import Tool
+from langchain_openai import ChatOpenAI
+from langchain.prompts.prompt import PromptTemplate
+
+from dotenv import load_dotenv
+
+##from tools.tools import get_profile_url_tavily
+
+from langchain_community.tools.tavily_search import TavilySearchResults
+
+def get_profile_url_tavily(name: str):
+    """Searches for Linkedin or twitter Profile Page."""
+    search = TavilySearchResults()
+    res = search.run(f"{name}")
+    return res[0]["url"]
 
 load_dotenv()
 
