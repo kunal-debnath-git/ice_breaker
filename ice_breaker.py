@@ -36,5 +36,4 @@ if __name__ == '__main__':
     linkedin_data=scrape_linkedin_profile(linkedin_profile_url="https://www.linkedin.com/in/eden-marco/")
 
     res = chain.invoke(input={"information": linkedin_data})
-
     print(res)    
