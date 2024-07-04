@@ -1,0 +1,998 @@
+{
+    "url":"https://www.linkedin.com/company/microsoft",
+    "profile":{
+       "linkedin_internal_id":"1035",
+       "description":"Every company has a mission. What\\'s ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn\\u2019t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn\\'t diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \\n\\nMicrosoft operates in 190 countries and is made up of more than 220,000 passionate employees worldwide.",
+       "website":"https://news.microsoft.com/",
+       "industry":"Software Development",
+       "company_size":[
+          10001,
+          null
+       ],
+       "company_size_on_linkedin":229123,
+       "hq":{
+          "country":"US",
+          "city":"Redmond",
+          "postal_code":"98052",
+          "line_1":"1 Microsoft Way",
+          "is_hq":true,
+          "state":"Washington"
+       },
+       "company_type":null,
+       "founded_year":null,
+       "specialities":[
+          "Business Software",
+          "Developer Tools",
+          "Home & Educational Software",
+          "Tablets",
+          "Search",
+          "Advertising",
+          "Servers",
+          "Windows Operating System",
+          "Windows Applications & Platforms",
+          "Smartphones",
+          "Cloud Computing",
+          "Quantum Computing",
+          "Future of Work",
+          "Productivity",
+          "AI",
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Laptops",
+          "Mixed Reality",
+          "Virtual Reality",
+          "Gaming",
+          "Developers",
+          "IT Professional"
+       ],
+       "locations":[
+          {
+             "country":"SK",
+             "city":"Bratislava",
+             "postal_code":"821 08",
+             "line_1":"Pradiare\\u0148 1900",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"GB",
+             "city":"Reading",
+             "postal_code":"RG6 1WG",
+             "line_1":"Thames Valley Park Drive",
+             "is_hq":false,
+             "state":"Berkshire"
+          },
+          {
+             "country":"RU",
+             "city":"\\u041c\\u043e\\u0441\\u043a\\u0432\\u0430",
+             "postal_code":"121614",
+             "line_1":"\\u0423\\u043b. \\u041a\\u0440\\u044b\\u043b\\u0430\\u0442\\u0441\\u043a\\u0430\\u044f, 17",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"CO",
+             "city":"Bogota",
+             "postal_code":null,
+             "line_1":"Calle 92 # 11 \\u2013 51",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"SG",
+             "city":"Singapore",
+             "postal_code":"069547",
+             "line_1":"182 Cecil Street",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"IL",
+             "city":"\\u05e8\\u05e2\\u05e0\\u05e0\\u05d4",
+             "postal_code":"43107",
+             "line_1":"\\u05e8\\u05d7\\u05d5\\u05d1 \\u05d4\\u05e4\\u05e0\\u05d9\\u05e0\\u05d4 2",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"AT",
+             "city":"Vienna",
+             "postal_code":"1120",
+             "line_1":"Am Europlatz 3",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"CL",
+             "city":"Santiago",
+             "postal_code":null,
+             "line_1":"Av. Vitacura 6844",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"IT",
+             "city":"Milan",
+             "postal_code":"20154",
+             "line_1":"Viale Pasubio, 21",
+             "is_hq":false,
+             "state":"Lombardy"
+          },
+          {
+             "country":"AU",
+             "city":"North Sydney",
+             "postal_code":"2060",
+             "line_1":"1 Denison Street ",
+             "is_hq":false,
+             "state":"NSW"
+          },
+          {
+             "country":"NZ",
+             "city":"Auckland",
+             "postal_code":null,
+             "line_1":"22 Viaduct Harbour Avenue",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"FI",
+             "city":"Espoo",
+             "postal_code":"02150",
+             "line_1":"Keilalahdentie 2-4",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"AE",
+             "city":"Dubai",
+             "postal_code":"52244",
+             "line_1":"Sheikh Zayed Road",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"EG",
+             "city":"Cairo",
+             "postal_code":null,
+             "line_1":"Kilo 28, Cairo/Alex Desert Road",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"RO",
+             "city":"Bucure\\u0219ti",
+             "postal_code":"061103",
+             "line_1":"Bulevardul Iuliu Maniu nr. 6P",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"DE",
+             "city":"M\\u00fcnchen",
+             "postal_code":"80807",
+             "line_1":"Walter-Gropius-Stra\\u00dfe 5",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"PL",
+             "city":"Warszawa",
+             "postal_code":"02-222",
+             "line_1":"Al. Jerozolimskie 195a",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"CN",
+             "city":"\\u4e2d\\u56fd",
+             "postal_code":"100080",
+             "line_1":"\\u6d77\\u6dc0\\u533a\\uff0c\\u4e39\\u68f1\\u88575\\u53f7",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"KR",
+             "city":"Jongno-gu",
+             "postal_code":null,
+             "line_1":"50, Jongro 1-gil",
+             "is_hq":false,
+             "state":"Seoul"
+          },
+          {
+             "country":"NL",
+             "city":"Schiphol",
+             "postal_code":"1118 CZ",
+             "line_1":"Evert van de Beekstraat 354",
+             "is_hq":false,
+             "state":"North Holland"
+          },
+          {
+             "country":"NO",
+             "city":"Oslo",
+             "postal_code":"0194",
+             "line_1":"Dronning Eufemia gate 71",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"SA",
+             "city":"Riyadh",
+             "postal_code":"11552",
+             "line_1":"The Business Gate, Building A2 Airport Road, Cordobah",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"ES",
+             "city":"Pozuelo de Alarc\\u00f3n",
+             "postal_code":"28223",
+             "line_1":"Paseo del Club Deportivo, 1",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"US",
+             "city":"Redmond",
+             "postal_code":"98052",
+             "line_1":"1 Microsoft Way",
+             "is_hq":true,
+             "state":"Washington"
+          },
+          {
+             "country":"BR",
+             "city":"Sao Paulo",
+             "postal_code":"04551-065",
+             "line_1":"Av. President Juscelino Kubitscheck, 1909",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"SE",
+             "city":"Stockholm",
+             "postal_code":"111 53",
+             "line_1":"Regeringsgatan 25",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"TH",
+             "city":"\\u0e40\\u0e02\\u0e15\\u0e1b\\u0e17\\u0e38\\u0e21\\u0e27\\u0e31\\u0e19 \\u0e01\\u0e23\\u0e38\\u0e07\\u0e40\\u0e17\\u0e1e\\u0e2f",
+             "postal_code":"10330",
+             "line_1":"87/2 \\u0e16\\u0e19\\u0e19\\u0e27\\u0e34\\u0e17\\u0e22\\u0e38 \\u0e41\\u0e02\\u0e27\\u0e07\\u0e25\\u0e38\\u0e21\\u0e1e\\u0e34\\u0e19\\u0e35",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"TR",
+             "city":"\\u0130stanbul",
+             "postal_code":"34340",
+             "line_1":"Ayd\\u0131n Sokak No:7",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"DK",
+             "city":"2800 Kongens Lyngby",
+             "postal_code":null,
+             "line_1":"Kanalvej 7",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"JP",
+             "city":"Minato-ku",
+             "postal_code":"108-0075",
+             "line_1":"2-16-3 Konan",
+             "is_hq":false,
+             "state":"Tokyo"
+          },
+          {
+             "country":"BE",
+             "city":"Zaventem",
+             "postal_code":"1930",
+             "line_1":"Luchthavenlaan 1k",
+             "is_hq":false,
+             "state":"Flemish Region"
+          },
+          {
+             "country":"IE",
+             "city":"Leopardstown",
+             "postal_code":"18 D18",
+             "line_1":"One Microsoft Place",
+             "is_hq":false,
+             "state":"Dublin"
+          },
+          {
+             "country":"MY",
+             "city":"Kuala Lumpur",
+             "postal_code":"50470",
+             "line_1":"No. 211, Jalan Tun Sambanthan",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"ID",
+             "city":"Jakarta",
+             "postal_code":"12190",
+             "line_1":"Jl. Jend. Sudirman Kav. 52-53",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"MX",
+             "city":"Del \\u00c1lvaro Obreg\\u00f3n",
+             "postal_code":"01210",
+             "line_1":"Av. Vasco de Quiroga 3200",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"ZA",
+             "city":"Johannesburg",
+             "postal_code":"2191",
+             "line_1":"3012 William Nicol Drive",
+             "is_hq":false,
+             "state":"Gauteng"
+          },
+          {
+             "country":"CA",
+             "city":"Mississauga",
+             "postal_code":"L5N 8L9",
+             "line_1":"1950 Meadowvale Blvd",
+             "is_hq":false,
+             "state":"Ontario"
+          },
+          {
+             "country":"PH",
+             "city":"Makati City",
+             "postal_code":"1223",
+             "line_1":"Ayala Avenue cor Edsa, Brgy. San Lorenzo,",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"CH",
+             "city":"Z\\u00fcrich",
+             "postal_code":null,
+             "line_1":"8058 Z\\u00fcrich-Flughafen",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"AR",
+             "city":"Buenos Aires",
+             "postal_code":null,
+             "line_1":"1106 Federal Capital",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"FR",
+             "city":"Issy-les-Moulineaux",
+             "postal_code":"92130",
+             "line_1":"39, Quai du Pr\\u00e9sident Roosevelt",
+             "is_hq":false,
+             "state":"\\u00cele-de-France"
+          },
+          {
+             "country":"PT",
+             "city":"Lisboa",
+             "postal_code":"1990 \\u2013 110",
+             "line_1":"Rua do Fogo de Santelmo, Lote 2.07.02",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"HK",
+             "city":"Hong Kong",
+             "postal_code":null,
+             "line_1":"100 Cyberport Road",
+             "is_hq":false,
+             "state":null
+          },
+          {
+             "country":"TW",
+             "city":"Xinyi District",
+             "postal_code":null,
+             "line_1":"Zhongxiao East Road Section 5 No. 68",
+             "is_hq":false,
+             "state":"Taipei City"
+          },
+          {
+             "country":"IN",
+             "city":"Gurgaon",
+             "postal_code":"122002",
+             "line_1":"DLF Building No.5 (Epitome), Cyber City, DLF Phase III",
+             "is_hq":false,
+             "state":null
+          }
+       ],
+       "name":"Microsoft",
+       "tagline":null,
+       "universal_name_id":"microsoft",
+       "profile_pic_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/microsoft/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240703%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240703T200409Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4208b57199f5f32ed640b48a3c1bdd9302ad76a6022427b86d4b2f57e10c2d86",
+       "background_cover_image_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/microsoft/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240703%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240703T200409Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c1175cb1c4aa0e7f66740f36733a0b750d4f07fe9000724e992d29fd8483a122",
+       "search_id":"1035",
+       "similar_companies":[
+          {
+             "name":"Google",
+             "link":"https://www.linkedin.com/company/google/",
+             "industry":"Software Development",
+             "location":"Mountain View, CA"
+          },
+          {
+             "name":"LinkedIn",
+             "link":"https://www.linkedin.com/company/linkedin/",
+             "industry":"Software Development",
+             "location":"Sunnyvale, CA"
+          },
+          {
+             "name":"Telkom Indonesia",
+             "link":"https://www.linkedin.com/company/telekomunikasi-indonesia/",
+             "industry":"Telecommunications",
+             "location":"Jakarta Selatan, DKI Jakarta"
+          },
+          {
+             "name":"PT Indofood Sukses Makmur Tbk",
+             "link":"https://www.linkedin.com/company/pt-indofood-sukses-makmur-tbk/",
+             "industry":"Manufacturing",
+             "location":"Jakarta, Jakarta"
+          },
+          {
+             "name":"Lowongan Kerja",
+             "link":"https://www.linkedin.com/company/openkerja/",
+             "industry":"Technology, Information and Media",
+             "location":"JAKARTA"
+          },
+          {
+             "name":"Amazon",
+             "link":"https://www.linkedin.com/company/amazon/",
+             "industry":"Software Development",
+             "location":"Seattle, WA"
+          },
+          {
+             "name":"PT SMART Tbk",
+             "link":"https://www.linkedin.com/company/pt-smart-tbk/",
+             "industry":"Food and Beverage Manufacturing",
+             "location":"Jakarta, Jakarta"
+          },
+          {
+             "name":"Jobstreet Indonesia",
+             "link":"https://www.linkedin.com/company/jobstreet.co.id/",
+             "industry":"Technology, Information and Internet",
+             "location":"Jakarta, DKI Jakarta"
+          },
+          {
+             "name":"Google for Developers",
+             "link":"https://www.linkedin.com/showcase/googledevelopers/",
+             "industry":"Technology, Information and Internet",
+             "location":"Mountain View, CA"
+          },
+          {
+             "name":"PT Bank Rakyat Indonesia (Persero) Tbk",
+             "link":"https://www.linkedin.com/company/pt-bank-rakyat-indonesia-persero-tbk/",
+             "industry":"Banking",
+             "location":"Jakarta Pusat, DKI Jakarta"
+          },
+          {
+             "name":"Rekrutmen Bersama BUMN",
+             "link":"https://www.linkedin.com/company/bersamabumn/",
+             "industry":"Technology, Information and Media",
+             "location":"Jakarta, DKI Jakarta"
+          },
+          {
+             "name":"ParagonCorp",
+             "link":"https://www.linkedin.com/company/paragoncorp/",
+             "industry":"Consumer Goods",
+             "location":"Jakarta Selatan, DKI Jakarta"
+          }
+       ],
+       "affiliated_companies":[
+          {
+             "name":"GitHub",
+             "link":"https://www.linkedin.com/company/github/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Parature",
+             "link":"https://www.linkedin.com/company/parature/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"6Wunderkinder",
+             "link":"https://www.linkedin.com/company/6wunderkinder/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"Bonsai",
+             "link":"https://www.linkedin.com/company/bonsai-ai/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Datazen Software",
+             "link":"https://www.linkedin.com/company/datazen/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Semantic Machines",
+             "link":"https://www.linkedin.com/company/semantic-machines/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Metanautix",
+             "link":"https://www.linkedin.com/company/metanautix/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Aorato",
+             "link":"https://www.linkedin.com/company/aorato/",
+             "industry":"Computer and Network Security",
+             "location":null
+          },
+          {
+             "name":"Microsoft Game Dev",
+             "link":"https://www.linkedin.com/company/msftgamedev/",
+             "industry":"Computer Games",
+             "location":null
+          },
+          {
+             "name":"Revolution Analytics",
+             "link":"https://www.linkedin.com/company/revolution_analytics/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Softomotive",
+             "link":"https://www.linkedin.com/company/softomotive/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"M12, Microsoft\\'s Venture Fund",
+             "link":"https://www.linkedin.com/company/m12vc/",
+             "industry":"Venture Capital and Private Equity Principals",
+             "location":null
+          },
+          {
+             "name":"Code Connect Inc.",
+             "link":"https://www.linkedin.com/company/code-connect-inc-/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Avere Systems",
+             "link":"https://www.linkedin.com/company/avere-systems/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"AltspaceVR",
+             "link":"https://www.linkedin.com/company/altspacevr/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Cycle Computing",
+             "link":"https://www.linkedin.com/company/cycle-computing-llc/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Metaswitch Networks",
+             "link":"https://www.linkedin.com/company/metaswitch-networks/",
+             "industry":"Telecommunications",
+             "location":null
+          },
+          {
+             "name":"Wand Labs, Inc.",
+             "link":"https://www.linkedin.com/company/wandlabs/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Event Zero",
+             "link":"https://www.linkedin.com/company/event-zero/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Solair",
+             "link":"https://www.linkedin.com/company/solair/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"InMage Systems",
+             "link":"https://www.linkedin.com/company/inmage-systems/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Lobe",
+             "link":"https://www.linkedin.com/company/lobeai/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Incent Games, Inc.",
+             "link":"https://www.linkedin.com/company/incent-games-llc/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Microsoft Advertising",
+             "link":"https://www.linkedin.com/showcase/microsoft-advertising/",
+             "industry":"Advertising Services",
+             "location":null
+          },
+          {
+             "name":"Microsoft Viva",
+             "link":"https://www.linkedin.com/showcase/microsoft-viva/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Cloud",
+             "link":"https://www.linkedin.com/showcase/microsoft-cloud-platform/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft News and Stories",
+             "link":"https://www.linkedin.com/showcase/microsoft-news-and-stories/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Microsoft Windows",
+             "link":"https://www.linkedin.com/showcase/microsoft-windows/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Learn",
+             "link":"https://www.linkedin.com/showcase/microsoftlearn/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"Microsoft Copilot",
+             "link":"https://www.linkedin.com/showcase/microsoftcopilot/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Security",
+             "link":"https://www.linkedin.com/showcase/microsoft-security/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"Windows Developer",
+             "link":"https://www.linkedin.com/showcase/windows-developers/",
+             "industry":null,
+             "location":null
+          },
+          {
+             "name":"Microsoft Threat Intelligence",
+             "link":"https://www.linkedin.com/showcase/microsoft-threat-intelligence/",
+             "industry":"Computer and Network Security",
+             "location":null
+          },
+          {
+             "name":"Microsoft Military Affairs",
+             "link":"https://www.linkedin.com/showcase/microsoft-military-affairs/",
+             "industry":"Information Technology & Services",
+             "location":null
+          },
+          {
+             "name":"Microsoft AI Cloud Partner Program",
+             "link":"https://www.linkedin.com/showcase/microsoft-cloud-partner-program/",
+             "industry":"Information Technology & Services",
+             "location":null
+          },
+          {
+             "name":"Microsoft Developers 365",
+             "link":"https://www.linkedin.com/showcase/microsoft-developers-365/",
+             "industry":null,
+             "location":null
+          },
+          {
+             "name":"Microsoft On the Issues",
+             "link":"https://www.linkedin.com/showcase/microsoft-on-the-issues/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Microsoft for Nonprofits",
+             "link":"https://www.linkedin.com/showcase/microsoft-for-nonprofits/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Surface",
+             "link":"https://www.linkedin.com/showcase/microsoft-surface/",
+             "industry":"Computer Hardware",
+             "location":null
+          },
+          {
+             "name":"Microsoft 365 Developer",
+             "link":"https://www.linkedin.com/showcase/microsoft365dev/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Microsoft SQL Server",
+             "link":"https://www.linkedin.com/showcase/msft-sql-server/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft 365 Insider Program",
+             "link":"https://www.linkedin.com/showcase/microsoft-365-insider/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"M",
+             "link":"https://www.linkedin.com/showcase/covid19-business-resource-center/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Visual Studio",
+             "link":"https://www.linkedin.com/showcase/microsoft-visual-studio/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Developer",
+             "link":"https://www.linkedin.com/showcase/microsoft-developers/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Fabric",
+             "link":"https://www.linkedin.com/showcase/microsoftfabric/",
+             "industry":"Data Infrastructure and Analytics",
+             "location":null
+          },
+          {
+             "name":"Microsoft Reactor",
+             "link":"https://www.linkedin.com/showcase/microsoft-reactor/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Microsoft Dynamics 365",
+             "link":"https://www.linkedin.com/showcase/microsoft-dynamics/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Xbox",
+             "link":"https://www.linkedin.com/showcase/xbox/",
+             "industry":"Entertainment Providers",
+             "location":null
+          },
+          {
+             "name":"Microsoft AI",
+             "link":"https://www.linkedin.com/showcase/microsoft-ai/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft Azure",
+             "link":"https://www.linkedin.com/showcase/microsoft-azure/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Microsoft Research",
+             "link":"https://www.linkedin.com/showcase/microsoftresearch/",
+             "industry":"Think Tanks",
+             "location":null
+          },
+          {
+             "name":"Go China Connection",
+             "link":"https://www.linkedin.com/showcase/go-china-connection/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"Microsoft for Healthcare",
+             "link":"https://www.linkedin.com/showcase/microsoft-health/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft in Government",
+             "link":"https://www.linkedin.com/showcase/microsoft-in-government/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft 365",
+             "link":"https://www.linkedin.com/showcase/microsoft-365/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"Microsoft Security Response Center",
+             "link":"https://www.linkedin.com/showcase/microsoft-security-response-center/",
+             "industry":"Computer and Network Security",
+             "location":null
+          },
+          {
+             "name":"Microsoft Power Platform",
+             "link":"https://www.linkedin.com/showcase/microsoft-power-platform/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Microsoft\\'s Entrepreneurship for Positive Impact",
+             "link":"https://www.linkedin.com/showcase/entrepreneurshipforpositiveimpact/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"GitHub",
+             "link":"https://www.linkedin.com/company/github/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Parature",
+             "link":"https://www.linkedin.com/company/parature/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"6Wunderkinder",
+             "link":"https://www.linkedin.com/company/6wunderkinder/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"Bonsai",
+             "link":"https://www.linkedin.com/company/bonsai-ai/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Datazen Software",
+             "link":"https://www.linkedin.com/company/datazen/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Semantic Machines",
+             "link":"https://www.linkedin.com/company/semantic-machines/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Metanautix",
+             "link":"https://www.linkedin.com/company/metanautix/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Aorato",
+             "link":"https://www.linkedin.com/company/aorato/",
+             "industry":"Computer and Network Security",
+             "location":null
+          },
+          {
+             "name":"Microsoft Game Dev",
+             "link":"https://www.linkedin.com/company/msftgamedev/",
+             "industry":"Computer Games",
+             "location":null
+          },
+          {
+             "name":"Revolution Analytics",
+             "link":"https://www.linkedin.com/company/revolution_analytics/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Softomotive",
+             "link":"https://www.linkedin.com/company/softomotive/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Code Connect Inc.",
+             "link":"https://www.linkedin.com/company/code-connect-inc-/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Avere Systems",
+             "link":"https://www.linkedin.com/company/avere-systems/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"AltspaceVR",
+             "link":"https://www.linkedin.com/company/altspacevr/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Cycle Computing",
+             "link":"https://www.linkedin.com/company/cycle-computing-llc/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Metaswitch Networks",
+             "link":"https://www.linkedin.com/company/metaswitch-networks/",
+             "industry":"Telecommunications",
+             "location":null
+          },
+          {
+             "name":"Wand Labs, Inc.",
+             "link":"https://www.linkedin.com/company/wandlabs/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          },
+          {
+             "name":"Event Zero",
+             "link":"https://www.linkedin.com/company/event-zero/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Studios Quality - Xbox Game Studios",
+             "link":"https://www.linkedin.com/company/studios-quality/",
+             "industry":"Computer Games",
+             "location":null
+          },
+          {
+             "name":"Solair",
+             "link":"https://www.linkedin.com/company/solair/",
+             "industry":"IT Services and IT Consulting",
+             "location":null
+          },
+          {
+             "name":"InMage Systems",
+             "link":"https://www.linkedin.com/company/inmage-systems/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Lobe",
+             "link":"https://www.linkedin.com/company/lobeai/",
+             "industry":"Software Development",
+             "location":null
+          },
+          {
+             "name":"Incent Games, Inc.",
+             "link":"https://www.linkedin.com/company/incent-games-llc/",
+             "industry":"Technology, Information and Internet",
+             "location":null
+          }
+       ],
+       "updates":[
+          
+       ],
+       "follower_count":22766083,
+       "acquisitions":null,
+       "exit_data":null,
+       "extra":null,
+       "funding_data":[
+          
+       ],
+       "categories":null,
+       "customer_list":null
+    },
+    "last_updated":"2024-06-24T06:23:11Z"
+ }
