@@ -12,7 +12,7 @@ from langchain.prompts.prompt import PromptTemplate
 from dotenv import load_dotenv
 
 ##from tools.tools import get_profile_url_tavily
-
+##--------------------------- copied from "tools.tools" --------------------------
 from langchain_community.tools.tavily_search import TavilySearchResults
 
 def get_profile_url_tavily(name: str):
@@ -20,6 +20,7 @@ def get_profile_url_tavily(name: str):
     search = TavilySearchResults()
     res = search.run(f"{name}")
     return res[0]["url"]
+##-------------------------------------------------------------------------------
 
 load_dotenv()
 
